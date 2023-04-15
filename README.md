@@ -7,3 +7,5 @@ RESTFUL
 SOAP
 GraphQL
 ```
+## Checklist and vulnerabilities
+* <\Here>
